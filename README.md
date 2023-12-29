@@ -18,107 +18,113 @@
   />
 </div>
 
-### 
-###
+### ###
 
 <div align="left" class="row">
   <h3>My tech stack 🪄</h3>
-  <div class="col-2">
-	<h4>Languages</h4>
-	<img
-	  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-	  height="30"
-	  alt="html5 logo"
-	/>
-	<img width="12" />
-	<img
-	  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-	  height="30"
-	  alt="css3 logo"
-	/>
-	<img width="12" />
-	<img
-	  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-	  height="30"
-	  alt="javascript logo"
-	/>
-	<img width="12" />
-	<img
-	  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-	  height="30"
-	  alt="typescript logo"
-	/>
-  </div>
-  <div class="col-2">
-	<h4>Frontend</h4>
-	<img
-	  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-	  height="30"
-	  alt="react logo"
-	/>
-	<img width="12" />
-	<img
-	  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-	  height="30"
-	  alt="redux logo"
-	/>
-  </div>
-  <div class="col-2">
-	<h4>Backend</h4>
-	<img
-	  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-	  height="30"
-	  alt="node logo"
-	/>
-	<img width="12" />
-	<img
-	  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-	  height="30"
-	  alt="express logo"
-	/>
-  </div>
-  <div class="col-2">
-	<h4>Database</h4>
-	<img
-	  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-	  height="30"
-	  alt="mongo logo"
-	/>
-	<img width="12" />
-	<img
-	  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-	  height="30"
-	  alt="mysql logo"
-	/>
-  </div>
-  <div class="col-2">
-	<h4>DevOps</h4>
-	<img
-	  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-	  height="30"
-	  alt="docker logo"
-	/><img width="12" />
-	<img
-	  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
-	  height="30"
-	  alt="kubernetes logo"
-	/><img width="12" />
-	<img
-	  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"
-	  height="30"
-	  alt="jenkins logo"
-	/>
-  </div>
-  <div class="col-2">
-	<h4>Version Control</h4>
-	<img
-	  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-	  height="30"
-	  alt="github logo"
-	/>
-  </div>
-</div>
-
+      <div class="col-2">
+        <h4>Languages</h4>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+          height="30"
+          alt="html5 logo"
+        />
+        <img width="12" />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+          height="30"
+          alt="css3 logo"
+        />
+        <img width="12" />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+          height="30"
+          alt="javascript logo"
+        />
+        <img width="12" />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+          height="30"
+          alt="typescript logo"
+        />
+      </div>
+      <div class="col-2">
+        <h4>Frontend</h4>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+          height="30"
+          alt="react logo"
+        />
+        <img width="12" />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+          height="30"
+          alt="redux logo"
+        />
+      </div>
+      <div class="col-2">
+        <h4>Backend</h4>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+          height="30"
+          alt="node logo"
+        />
+        <img width="12" />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+          height="30"
+          alt="express logo"
+        />
+      </div>
+      <div class="col-2">
+        <h4>Database</h4>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+          height="30"
+          alt="mongo logo"
+        />
+        <img width="12" />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+          height="30"
+          alt="mysql logo"
+        />
+      </div>
+      <div class="col-2">
+        <h4>DevOps</h4>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+          height="30"
+          alt="docker logo"
+        /><img width="12" />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
+          height="30"
+          alt="kubernetes logo"
+        /><img width="12" />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"
+          height="30"
+          alt="jenkins logo"
+        />
+      </div>
+      <div class="col-2">
+        <h4>Version Control</h4>
+        <div
+          style="
+            background-color: white;
+            width: fit-content;
+            border-radius: 50%;
+          "
+        >
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+            height="30"
+            alt="github logo"
+          />
+        </div>
+      </div>
+    </div>
 ###
 
 <div align="left">
