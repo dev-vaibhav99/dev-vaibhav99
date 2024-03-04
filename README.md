@@ -7,23 +7,32 @@
 
 <div align="center">
   <img
-	src="https://github-readme-stats.vercel.app/api?username=dev-vaibhav99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
-	height="150"
-	alt="stats graph"
+    src="https://github-readme-stats.vercel.app/api?username=dev-vaibhav99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
+    height="150"
+    alt="stats graph"
   />
   <img
-	src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-vaibhav99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
-	height="150"
-	alt="languages graph"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-vaibhav99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+    height="150"
+    alt="languages graph"
   />
 </div>
 
 ### ###
 
-<div align="left" class="row">
+<div align="left">
   <h3>My tech stack 🪄</h3>
-      <div class="col-2">
-        <h4>Languages</h4>
+  <table>
+    <tr>
+      <th><h4>Languages</h4></th>
+      <th><h4>Frontend</h4></th>
+      <th><h4>Backend</h4></th>
+      <th><h4>Database</h4></th>
+      <th><h4>DevOps</h4></th>
+      <th><h4>Version Control</h4></th>
+    </tr>
+    <tr>
+      <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
           height="30"
@@ -47,9 +56,8 @@
           height="30"
           alt="typescript logo"
         />
-      </div>
-      <div class="col-2">
-        <h4>Frontend</h4>
+      </td>
+      <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
           height="30"
@@ -61,9 +69,8 @@
           height="30"
           alt="redux logo"
         />
-      </div>
-      <div class="col-2">
-        <h4>Backend</h4>
+      </td>
+      <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
           height="30"
@@ -75,9 +82,8 @@
           height="30"
           alt="express logo"
         />
-      </div>
-      <div class="col-2">
-        <h4>Database</h4>
+      </td>
+      <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
           height="30"
@@ -89,9 +95,8 @@
           height="30"
           alt="mysql logo"
         />
-      </div>
-      <div class="col-2">
-        <h4>DevOps</h4>
+      </td>
+      <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
           height="30"
@@ -107,62 +112,56 @@
           height="30"
           alt="jenkins logo"
         />
-      </div>
-      <div class="col-2">
-        <h4>Version Control</h4>
-        <div
-          style="
-            background-color: white;
-            width: fit-content;
-            border-radius: 50%;
-          "
-        >
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-            height="30"
-            alt="github logo"
-          />
-        </div>
-      </div>
-    </div>
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+          height="30"
+          alt="github logo"
+        />
+      </td>
+    </tr>
+  </table>
+  </div>
+</div>
 ###
 
 <div align="left">
   <h4>Contact me here 🤙</h4>
   <a
-	href="https://mail.google.com/mail/u/0/?fs=1&to=dev.vaibhav99@gmail.com&su=Let%20us%20connect&body=Hey%20Vaibhav&tf=cm"
-	target="_blank"
-	><img
-	  src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
-	  height="35"
-	  alt="gmail logo"
+    href="https://mail.google.com/mail/u/0/?fs=1&to=dev.vaibhav99@gmail.com&su=Let%20us%20connect&body=Hey%20Vaibhav&tf=cm"
+    target="_blank"
+    ><img
+      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
+      height="35"
+      alt="gmail logo"
   /></a>
   <a
-	href="https://www.linkedin.com/in/dev-vaibhav99/"
-	target="_blank"
-	rel="noopener noreferrer"
-	><img
-	  src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-	  height="35"
-	  alt="linkedin logo"
+    href="https://www.linkedin.com/in/dev-vaibhav99/"
+    target="_blank"
+    rel="noopener noreferrer"
+    ><img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+      height="35"
+      alt="linkedin logo"
   /></a>
   <a
-	href="https://www.instagram.com/vaibhav_2324/"
-	target="_blank"
-	rel="noopener noreferrer"
-	><img
-	  src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
-	  height="35"
-	  alt="instagram logo"
+    href="https://www.instagram.com/vaibhav_2324/"
+    target="_blank"
+    rel="noopener noreferrer"
+    ><img
+      src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
+      height="35"
+      alt="instagram logo"
   /></a>
   <a
-	href="https://discordapp.com/users/dev_vaibhav99"
-	target="_blank"
-	rel="noopener noreferrer"
-	><img
-	  src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
-	  height="35"
-	  alt="discord logo"
+    href="https://discordapp.com/users/dev_vaibhav99"
+    target="_blank"
+    rel="noopener noreferrer"
+    ><img
+      src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
+      height="35"
+      alt="discord logo"
   /></a>
 </div>
 
@@ -173,6 +172,25 @@
 <!-- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> -->
 
 ###
+
+<style>
+    table {
+      text-align: center;
+      border-collapse: collapse;
+      width: 100%;
+    }
+    th, td {
+      border: 1px solid black; /* Add borders to cells */
+      padding: 8px;
+      text-align: center;
+    }
+    th {
+     background-color: #f2f2f2; /* Light gray background color for header
+    }
+    td + td {
+      border-left: 1px solid black; /* Add a left border to all TDs except the first one in each row */
+    }
+  </style>
 
 <link
   href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
